@@ -15,14 +15,14 @@
             <ul class="flex space-x-6">
                 <li>
                     <a 
-                        href="{{ route('home') }}" 
+                        href="{{ route('posts.index') }}" 
                         class="{{ request()->routeIs('posts.index') ? 'text-blue-600 font-semibold' : 'hover:text-blue-500' }}">
                         Posts
                     </a>
                 </li>
                 <li>
                     <a 
-                        href="{{ route('home') }}" 
+                        href="{{ route('posts.create') }}" 
                         class="{{ request()->routeIs('posts.create') ? 'text-blue-600 font-semibold' : 'hover:text-blue-500' }}">
                         Create Post
                     </a>
@@ -40,7 +40,7 @@
     
 
     <div class="container mx-auto px-6 md:px-12">
-        <hr>
+        {{ $slot }}
     </div>
 
 </body>
