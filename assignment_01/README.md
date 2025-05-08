@@ -1,13 +1,14 @@
 <h1>Assignment 01: CRUD Operation in Laravel</h1>
 <p>Demo Screenshots</p>
+<p>1</p>
 ![alt text](https://github.com/rhr007/Japanese-AI-Course/blob/main/assignment_01/SS/1.png?raw=true)
 
 <br>
 <p>2</p>
-![alt text](https://github.com/rhr007/Japanese-AI-Course/blob/main/assignment_01/SS/2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/rhr007/Japanese-AI-Course/refs/heads/main/assignment_01/SS/2.png)
 
 <br>
-<p>2</p>
+<p>3</p>
 ![alt text](https://github.com/rhr007/Japanese-AI-Course/blob/main/assignment_01/SS/3.png?raw=true)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
